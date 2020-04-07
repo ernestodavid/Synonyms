@@ -1,0 +1,3672 @@
+{
+"16437": [
+{
+"scientific research": []
+},
+{
+"creativity": [
+"creativity",
+"creativeness",
+"creative_thinking"
+]
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"computer engineering": []
+},
+{
+"article publication": []
+}
+],
+"16438": [
+{
+"seminars": [
+"seminar",
+"seminar"
+]
+},
+{
+"knowledge to practic": []
+},
+{
+"analysis": [
+"analysis",
+"analysis",
+"analytic_thinking",
+"analysis",
+"analysis"
+]
+},
+{
+"learning skills": []
+},
+{
+"critical analysis": []
+}
+],
+"16440": [
+{
+"artificial intelligence": []
+},
+{
+"neural networks": []
+},
+{
+"biological computation": []
+},
+{
+"algorithm": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"bio-inspired systems": []
+}
+],
+"16441": [
+{
+"automated planning": []
+},
+{
+"planning": [
+"planning",
+"planning",
+"planning",
+"preparation",
+"provision"
+]
+},
+{
+"algorithms": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"machine learning": []
+},
+{
+"knowledge representation": []
+}
+],
+"16442": [
+{
+"multiagent systems": []
+},
+{
+"communication": [
+"communication",
+"communicating",
+"communication",
+"communication"
+]
+},
+{
+"coordination": [
+"coordination",
+"coordination",
+"coordination",
+"coordination"
+]
+},
+{
+"distributed problems": []
+},
+{
+"organization": [
+"organization",
+"organisation",
+"arrangement",
+"organization",
+"organisation"
+]
+}
+],
+"16446": [
+{
+"software": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"project": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+},
+{
+"management": [
+"management",
+"direction",
+"management"
+]
+},
+{
+"startup": [
+"startup",
+"inauguration",
+"startup"
+]
+},
+{
+"plannig": []
+}
+],
+"16447": [
+{
+"knowledge reuse": []
+},
+{
+"software": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"research": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"representation": [
+"representation",
+"mental_representation",
+"internal_representation",
+"representation",
+"representation"
+]
+},
+{
+"information": [
+"information",
+"info",
+"information",
+"information",
+"data"
+]
+},
+{
+"engineering": [
+"technology",
+"engineering",
+"engineering",
+"engineering_science",
+"applied_science"
+]
+}
+],
+"16448": [
+{
+"software": [
+"software",
+"software_program",
+"computer_software",
+"software_system",
+"software_package"
+]
+},
+{
+"processes": [
+"procedure",
+"process",
+"process",
+"cognitive_process",
+"mental_process"
+]
+},
+{
+"process evaluation": []
+},
+{
+"models": [
+"model",
+"theoretical_account",
+"framework",
+"model",
+"model"
+]
+},
+{
+"computer science": []
+}
+],
+"16452": [
+{
+"distributed systems": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"algorithm": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"simulation": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"high performance": []
+},
+{
+"scheduling": [
+"scheduling",
+"programming",
+"programing",
+"schedule",
+"schedule"
+]
+}
+],
+"16454": [
+{
+"cryptographic": [
+"cryptanalytic",
+"cryptographic",
+"cryptographical",
+"cryptologic",
+"cryptological"
+]
+},
+{
+"protocols": [
+"protocol",
+"communications_protocol",
+"protocol",
+"protocol"
+]
+},
+{
+"hardware design": []
+},
+{
+"cryptographic primitive": []
+}
+],
+"16455": [
+{
+"advance computing": []
+},
+{
+"programming": [
+"scheduling",
+"programming",
+"programing",
+"programming",
+"programing"
+]
+},
+{
+"parallel programming": []
+},
+{
+"heterogeneous computing": []
+},
+{
+"programming models": []
+}
+],
+"16439": [],
+"16443": [
+{
+"unconventional computing": []
+},
+{
+"quantum computing": []
+},
+{
+"biocomputing": []
+}
+],
+"16444": [
+{
+"automatic programming": []
+},
+{
+"machine learning": []
+},
+{
+"deep learning": []
+},
+{
+"neural networks": []
+},
+{
+"algorithm": [
+"algorithm",
+"algorithmic_rule",
+"algorithmic_program"
+]
+},
+{
+"reinforcement learning": []
+}
+],
+"16445": [
+{
+"modeling": [
+"mold",
+"mould",
+"molding",
+"moulding",
+"modeling"
+]
+},
+{
+"simulation": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"optimization": [
+"optimization",
+"optimisation"
+]
+},
+{
+"artificial inteligent": []
+},
+{
+"optimization": [
+"optimization",
+"optimisation"
+]
+}
+],
+"16449": [
+{
+"software development": []
+},
+{
+"model driven": []
+},
+{
+"arquitecture": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+}
+],
+"16450": [
+{
+"startup": [
+"startup",
+"inauguration",
+"startup"
+]
+},
+{
+"talent management": []
+},
+{
+"managemenet": []
+},
+{
+"organization": [
+"organization",
+"organisation",
+"arrangement",
+"organization",
+"organisation"
+]
+}
+],
+"16451": [
+{
+"information technology": []
+},
+{
+"teamwork": [
+"teamwork"
+]
+},
+{
+"management": [
+"management",
+"direction",
+"management"
+]
+},
+{
+"interface": [
+"interface",
+"interface",
+"user_interface",
+"interface",
+"interface"
+]
+},
+{
+"natural language processing": []
+}
+],
+"12414": [
+{
+"analogical": [
+"analogical"
+]
+},
+{
+"digital": [
+"digital",
+"digital",
+"digital"
+]
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"systems": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+}
+],
+"12415": [
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+},
+{
+"systems": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"photonic": []
+},
+{
+"optical": [
+"optical",
+"ocular",
+"optic",
+"optical",
+"visual"
+]
+},
+{
+"microelectronic": [
+"microelectronic"
+]
+}
+],
+"12416": [
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+},
+{
+"systems": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"simulation": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"signal processing": []
+}
+],
+"12419": [
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+},
+{
+"disabled people": []
+},
+{
+"assistance": [
+"aid",
+"assist",
+"assistance",
+"help",
+"aid"
+]
+},
+{
+"systems": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+}
+],
+"12426": [
+{
+"embedded systems": []
+},
+{
+"fpga": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"optimization": [
+"optimization",
+"optimisation"
+]
+},
+{
+"microcontrollers": []
+}
+],
+"12427": [
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"sensor": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"embedded systems": []
+},
+{
+"network": [
+"network",
+"web",
+"network",
+"net",
+"network"
+]
+},
+{
+"communication": [
+"communication",
+"communicating",
+"communication",
+"communication"
+]
+}
+],
+"12430": [
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+},
+{
+"systems": [
+"system",
+"system",
+"scheme",
+"system",
+"system"
+]
+},
+{
+"photonic": []
+},
+{
+"fiber optic ": []
+}
+],
+"12431": [
+{
+"circuits": [
+"circuit",
+"electrical_circuit",
+"electric_circuit",
+"tour",
+"circuit"
+]
+},
+{
+"electronic": [
+"electronic",
+"electronic"
+]
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"converter": [
+"converter",
+"convertor"
+]
+}
+],
+"12417": [
+{
+"electronic systems": []
+},
+{
+"research": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"innovation": [
+"invention",
+"innovation",
+"invention",
+"innovation",
+"excogitation"
+]
+}
+],
+"12420": [
+{
+"intership": []
+},
+{
+"experience": [
+"experience",
+"experience",
+"experience",
+"experience",
+"see"
+]
+},
+{
+"electronic systems": []
+}
+],
+"12418": [
+{
+"electronic systems": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"teamwork": [
+"teamwork"
+]
+},
+{
+"meassure": []
+}
+],
+"12421": [
+{
+"electronic systems": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"teamwork": [
+"teamwork"
+]
+},
+{
+"meassure": []
+}
+],
+"12423": [
+{
+"renewable energy": []
+},
+{
+"converter": [
+"converter",
+"convertor"
+]
+},
+{
+" electronic systems": []
+},
+{
+"bioengineering": [
+"biotechnology",
+"bioengineering",
+"ergonomics"
+]
+},
+{
+"electric vehicules": []
+}
+],
+"12424": [
+{
+"sensor": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"signal": [
+"signal",
+"signaling",
+"sign",
+"signal",
+"signal"
+]
+},
+{
+"meassurement": []
+},
+{
+"biomedical": [
+"biomedical"
+]
+}
+],
+"12428": [
+{
+"power systems": []
+},
+{
+"electronic systems": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"circuit": [
+"circuit",
+"electrical_circuit",
+"electric_circuit",
+"tour",
+"circuit"
+]
+},
+{
+"development": [
+"development",
+"development",
+"evolution",
+"growth",
+"growing"
+]
+}
+],
+"12429": [
+{
+"electromagnetic": [
+"electromagnetic"
+]
+},
+{
+"electronic system": []
+},
+{
+"electromagnetic compatibility": []
+},
+{
+"microprocessors": [
+"microprocessor"
+]
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+}
+],
+"12432": [
+{
+"integrated circuits": []
+},
+{
+"nanoelectronics": []
+},
+{
+"microsystems": []
+},
+{
+"electronic systems": []
+},
+{
+"develpment": []
+}
+],
+"12433": [
+{
+"integrated circuit": []
+},
+{
+"photonic": []
+},
+{
+"integrated optics": []
+},
+{
+"photonic systems": []
+}
+],
+"12434": [
+{
+"microsystems": []
+},
+{
+"nanoelectronics": []
+},
+{
+"sensor": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"quantum computing": []
+},
+{
+"molecular electronics": []
+},
+{
+"metatronics": []
+}
+],
+"12166": [],
+"16157": [
+{
+"fluid mechanics": []
+},
+{
+"calculus": [
+"calculus",
+"concretion",
+"tartar",
+"calculus",
+"tophus"
+]
+},
+{
+"heat transfer": []
+},
+{
+"fluid engineering": []
+},
+{
+"thermal engineering": []
+}
+],
+"16158": [
+{
+"fluid mechanics": []
+},
+{
+"hydrodynamic": [
+"hydrodynamic"
+]
+},
+{
+"claculus": []
+},
+{
+"mathematical models": []
+}
+],
+"16159": [
+{
+"structural mechanics": []
+},
+{
+"elasticity": [
+"elasticity",
+"snap"
+]
+},
+{
+"structural integrity": []
+},
+{
+"structural stability": []
+},
+{
+"mechanical engineering": []
+}
+],
+"16160": [
+{
+"solid mechanics": []
+},
+{
+"finite element method": []
+},
+{
+"math": [
+"mathematics",
+"math",
+"maths"
+]
+},
+{
+"elasticity": [
+"elasticity",
+"snap"
+]
+},
+{
+"strength of materials": []
+}
+],
+"16161": [
+{
+"mechanical engineering": []
+},
+{
+"fotoelasticity": []
+},
+{
+"testing": [
+"testing",
+"testing",
+"examination",
+"testing",
+"test"
+]
+},
+{
+"simulation": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+}
+],
+"16162": [
+{
+"computer manufacturing": []
+},
+{
+"manufacturing processes": []
+},
+{
+"mechanical engineering": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+}
+],
+"16163": [
+{
+"manufacturing process": []
+},
+{
+"measuring procedures": []
+},
+{
+"physical magnitudes": []
+},
+{
+"calculus": [
+"calculus",
+"concretion",
+"tartar",
+"calculus",
+"tophus"
+]
+}
+],
+"16164": [
+{
+"renewable energy": []
+},
+{
+"power plant": []
+},
+{
+"thermodynamics": [
+"thermodynamics"
+]
+},
+{
+"energy": [
+"energy",
+"free_energy",
+"energy",
+"vigor",
+"vigour"
+]
+}
+],
+"16165": [
+{
+"composite structure": []
+},
+{
+"composite laminate": []
+},
+{
+"Laminate design": []
+},
+{
+" laminate beams": []
+}
+],
+"16166": [
+{
+"data analysis": []
+},
+{
+"mechanical sensors": []
+},
+{
+"mechanical engineering": []
+},
+{
+"masurements": []
+},
+{
+"signal": [
+"signal",
+"signaling",
+"sign",
+"signal",
+"signal"
+]
+}
+],
+"16167": [
+{
+"mechanical fluid": []
+},
+{
+"signal analysis": []
+},
+{
+"laser": [
+"laser",
+"optical_maser"
+]
+},
+{
+"experimental technique": []
+},
+{
+"technique fluid": []
+}
+],
+"16168": [
+{
+"thermal engineering": []
+},
+{
+"thermal process": []
+},
+{
+"data acquisition": []
+},
+{
+"data": [
+"data",
+"information",
+"datum",
+"data_point"
+]
+},
+{
+"measurement": [
+"measurement",
+"measuring",
+"measure",
+"mensuration"
+]
+}
+],
+"16169": [
+{
+"optimization techniques": []
+},
+{
+"mechanical engineering": []
+},
+{
+"optimization": [
+"optimization",
+"optimisation"
+]
+},
+{
+"machine learning": []
+}
+],
+"16170": [
+{
+"industrial construction": []
+},
+{
+"design": [
+"design",
+"designing",
+"design",
+"plan",
+"blueprint"
+]
+},
+{
+"design structure": []
+},
+{
+"structural elements": []
+}
+],
+"18053": [],
+"18054": [],
+"18055": [],
+"18056": [],
+"18057": [],
+"18059": [],
+"18060": [],
+"18061": [],
+"18062": [],
+"18063": [],
+"18064": [],
+"18065": [],
+"18066": [],
+"18067": [],
+"18068": [],
+"18069": [],
+"18070": [],
+"18072": [],
+"17142": [],
+"17143": [],
+"17144": [],
+"17145": [],
+"17146": [],
+"17147": [],
+"17148": [],
+"17149": [],
+"17150": [],
+"17151": [],
+"17152": [],
+"17153": [],
+"17154": [],
+"17155": [],
+"17156": [],
+"17157": [],
+"15444": [
+{
+"interpolation": [
+"interpolation",
+"insertion",
+"interpolation",
+"interjection",
+"interposition"
+]
+},
+{
+"error analysis": []
+},
+{
+"Romberg\u00e2\u20ac\u2122s integration": []
+},
+{
+"Newton\u00e2\u20ac\u2122s method": []
+},
+{
+"Euler\u00e2\u20ac\u2122s method": []
+}
+],
+"15445": [
+{
+"perturbation theory": []
+},
+{
+"pseudoinverses": []
+},
+{
+"canonical forms": []
+},
+{
+"factorization": [
+"factorization",
+"factorisation",
+"factoring"
+]
+},
+{
+"matrices": [
+"matrix",
+"matrix",
+"matrix",
+"matrix",
+"intercellular_substance"
+]
+}
+],
+"15446": [
+{
+"measure theory": []
+},
+{
+"Lp spaces": []
+},
+{
+"Hp spaces": []
+},
+{
+"Potential theory": []
+},
+{
+"Banach spaces": []
+},
+{
+"complex analysis": []
+}
+],
+"15447": [
+{
+"random variables": []
+},
+{
+"Markov": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"estimators": [
+"calculator",
+"reckoner",
+"figurer",
+"estimator",
+"computer"
+]
+},
+{
+"test of hypothesis": []
+},
+{
+"nonparametric inference": []
+}
+],
+"15448": [
+{
+"floating point": []
+},
+{
+"factorization": [
+"factorization",
+"factorisation",
+"factoring"
+]
+},
+{
+"eigenvalues": [
+"eigenvalue",
+"eigenvalue_of_a_matrix",
+"eigenvalue_of_a_square_matrix",
+"characteristic_root_of_a_square_matrix"
+]
+},
+{
+"iterative methods": []
+},
+{
+"QR algorithm": []
+}
+],
+"15449": [
+{
+"multivariate regression": []
+},
+{
+"least squares": []
+},
+{
+"linear models": []
+},
+{
+"GLM": []
+},
+{
+"smoothing methods": []
+}
+],
+"15450": [
+{
+"Hilbert spaces": []
+},
+{
+"Fourier": [
+"Fourier",
+"Jean_Baptiste_Joseph_Fourier",
+"Baron_Jean_Baptiste_Joseph_Fourier",
+"Fourier",
+"Charles_Fourier"
+]
+},
+{
+"Shannon": [
+"Shannon",
+"Claude_Shannon",
+"Claude_E._Shannon",
+"Claude_Elwood_Shannon"
+]
+},
+{
+"orthonormal bases": []
+},
+{
+"Riesz": []
+}
+],
+"15451": [
+{
+"differential equations": []
+},
+{
+"parabolic equations": []
+},
+{
+"hyperbolic equations": []
+},
+{
+"Elliptic equations": []
+},
+{
+"Laplace": [
+"Laplace",
+"Marquis_de_Laplace",
+"Pierre_Simon_de_Laplace"
+]
+}
+],
+"15452": [
+{
+"random variables": []
+},
+{
+"Markov": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"stochastic processes": []
+},
+{
+"Brownian motion": []
+},
+{
+"Martingales": [
+"martingale",
+"dolphin_striker",
+"martingale"
+]
+}
+],
+"15453": [
+{
+"linear optimization": []
+},
+{
+"combinatorial optimization": []
+},
+{
+"stochastic optimization": []
+},
+{
+"applications": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+},
+{
+"branch and bound": []
+}
+],
+"15454": [
+{
+"power series": []
+},
+{
+"graphs": [
+"graph",
+"graphical_record",
+"graph",
+"chart",
+"graph"
+]
+},
+{
+"Markov": [
+"Markov",
+"Andrei_Markov",
+"Markoff",
+"Andre_Markoff"
+]
+},
+{
+"harmonics functions": []
+},
+{
+"Green's function": []
+}
+],
+"15455": [
+{
+"thermodynamics": [
+"thermodynamics"
+]
+},
+{
+"nonlinear dynamics": []
+},
+{
+"bifurcations": [
+"bifurcation",
+"bifurcation",
+"bifurcation"
+]
+},
+{
+"chaotic dynamics": []
+},
+{
+"percolation": [
+"percolation",
+"infiltration",
+"percolation",
+"percolation"
+]
+}
+],
+"15456": [
+{
+"random variables": []
+},
+{
+"Stochastic processes": []
+},
+{
+"Black-Scholes model": []
+},
+{
+"Langevin simulation": []
+},
+{
+"mathematical finance": []
+}
+],
+"15457": [
+{
+"Fourier": [
+"Fourier",
+"Jean_Baptiste_Joseph_Fourier",
+"Baron_Jean_Baptiste_Joseph_Fourier",
+"Fourier",
+"Charles_Fourier"
+]
+},
+{
+"hyperbolic equations": []
+},
+{
+"Galerkin": []
+},
+{
+"interpolation": [
+"interpolation",
+"insertion",
+"interpolation",
+"interjection",
+"interposition"
+]
+},
+{
+"G-NI method": []
+}
+],
+"15458": [
+{
+"random variables": []
+},
+{
+"Borel-Cantelli": []
+},
+{
+"large numbers": []
+},
+{
+"Delta Method": []
+},
+{
+"U-statistics": []
+},
+{
+"Plugging estimation": []
+}
+],
+"15459": [
+{
+"multivariate": [
+"multivariate"
+]
+},
+{
+"kernel": [
+"kernel",
+"meat",
+"kernel",
+"kernel",
+"substance"
+]
+},
+{
+"Bayes": [
+"Bayes",
+"Thomas_Bayes",
+"bay",
+"bay",
+"quest"
+]
+},
+{
+"canonical correlation": []
+},
+{
+"gaussian distribution": []
+}
+],
+"15461": [
+{
+"unconstrained optimization": []
+},
+{
+"constrained optimization": []
+},
+{
+"stochastic optimization": []
+},
+{
+"robust optimization": []
+},
+{
+"optimality": []
+}
+],
+"15465": [
+{
+"Bayes": [
+"Bayes",
+"Thomas_Bayes",
+"bay",
+"bay",
+"quest"
+]
+},
+{
+"MCMC": []
+},
+{
+"Monte Carlo": []
+},
+{
+"time series": []
+},
+{
+"regression": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+}
+],
+"15525": [
+{
+"FDA": [
+"Food_and_Drug_Administration",
+"FDA"
+]
+},
+{
+"support vector Machines": []
+},
+{
+"SVM": []
+},
+{
+"kernel": [
+"kernel",
+"meat",
+"kernel",
+"kernel",
+"substance"
+]
+},
+{
+"regression": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+}
+],
+"15462": [
+{
+"Riccati equations": []
+},
+{
+"Pontryagin's maximum principle": []
+},
+{
+"control mechanical systems": []
+},
+{
+"affine-linear control": []
+},
+{
+"linear control systems": []
+}
+],
+"15463": [
+{
+"discrete models": []
+},
+{
+"diffusion systems": []
+},
+{
+"chemical kinetics": []
+},
+{
+"biological oscillators": []
+},
+{
+"Belousov-Zhabotinski": []
+}
+],
+"15464": [
+{
+"orthogonal polynomials": []
+},
+{
+"Pad\u00c3\u00a9 approximation": []
+},
+{
+"orthogonality": [
+"orthogonality",
+"perpendicularity",
+"orthogonal_opposition",
+"orthogonality"
+]
+},
+{
+"Liouville": []
+},
+{
+"rational approximation": []
+}
+],
+"15466": [
+{
+"ARIMA": []
+},
+{
+"autoregressive models": []
+},
+{
+"spectral analysis": []
+},
+{
+"Holt-Winters": []
+},
+{
+"smoothing methods": []
+}
+],
+"15467": [
+{
+"discrete dependent variables": []
+},
+{
+"OLS estimators": []
+},
+{
+"panel data": []
+},
+{
+"limited dependent variable": []
+},
+{
+"regression": [
+"arrested_development",
+"fixation",
+"infantile_fixation",
+"regression",
+"regression"
+]
+}
+],
+"18228": [
+{
+"advanced_communications": []
+},
+{
+"radar": [
+"radar",
+"microwave_radar",
+"radio_detection_and_ranging",
+"radiolocation"
+]
+},
+{
+"navigation": [
+"navigation",
+"pilotage",
+"piloting",
+"navigation",
+"seafaring"
+]
+},
+{
+"radar_systems": []
+}
+],
+"18538": [
+{
+"advanced_communications": []
+},
+{
+"signal_processing": []
+},
+{
+"statistical_signal_processing": []
+},
+{
+"model_based_signal_processing": []
+}
+],
+"18227": [
+{
+"advanced_communications": []
+},
+{
+"terrestrial_communications": []
+},
+{
+"space_communications": []
+},
+{
+"communication_architecture": []
+}
+],
+"18230": [
+{
+"advanced_communications": []
+},
+{
+"broadband_communications": []
+},
+{
+"ofdm": []
+},
+{
+"mimo": []
+}
+],
+"18537": [
+{
+"advanced_communications": []
+},
+{
+"high_frequency": [
+"high_frequency",
+"HF",
+"high_pitch",
+"high_frequency"
+]
+},
+{
+"millimiter_wave": []
+},
+{
+"active_systems": []
+},
+{
+"passive_systems": []
+}
+],
+"18231": [
+{
+"advanced_communications": []
+},
+{
+"antennas": [
+"antenna",
+"aerial",
+"transmitting_aerial",
+"antenna",
+"feeler"
+]
+},
+{
+"antenna_technology": []
+}
+],
+"18539": [
+{
+"advanced_communications": []
+},
+{
+"information_theory": [
+"information_theory"
+]
+},
+{
+"digital_communication": [
+"digital_communication",
+"data_communication"
+]
+}
+],
+"18232": [
+{
+"advanced_communications": []
+},
+{
+"computational_electromagnetism": []
+},
+{
+"mathematical_modelling": []
+},
+{
+"hpc": []
+}
+],
+"18621": [
+{
+"advanced_communications": []
+},
+{
+"computational_electromagnetism": []
+},
+{
+"mathematical_modelling": []
+},
+{
+"hpc": []
+}
+],
+"18573": [
+{
+"advanced_communications": []
+},
+{
+"channel_coding": []
+},
+{
+"mimo_systems": []
+}
+],
+"18229": [
+{
+"advanced_communications": []
+},
+{
+"simulation": [
+"simulation",
+"simulation",
+"computer_simulation",
+"model",
+"simulation"
+]
+},
+{
+"optimization": [
+"optimization",
+"optimisation"
+]
+},
+{
+"communication_systems": [
+"communication_system",
+"communication_system",
+"communication_equipment"
+]
+}
+],
+"18622": [
+{
+"advanced_communications": []
+},
+{
+"scientific_methodology": []
+}
+],
+"14922": [
+{
+"Fuzzy relations": []
+},
+{
+"Fuzzy modeling systems": []
+},
+{
+"Fundamentals of neural networks": []
+},
+{
+"Control systems": []
+},
+{
+"Non-derivative methods": []
+}
+],
+"14925": [
+{
+"Autonomy": [
+"autonomy",
+"liberty",
+"autonomy",
+"self-direction",
+"self-reliance"
+]
+},
+{
+"Intelligence": [
+"intelligence",
+"intelligence",
+"intelligence_service",
+"intelligence_agency",
+"intelligence"
+]
+},
+{
+"Control architectures of robots": []
+},
+{
+"Robot learning": []
+},
+{
+"Robot perception": []
+},
+{
+"Decision making": []
+}
+],
+"14926": [
+{
+"Bottom-up design": []
+},
+{
+"Image preprocessing": []
+},
+{
+"Top-down design": []
+},
+{
+"Optimization": [
+"optimization",
+"optimisation"
+]
+},
+{
+"Stereo Vision": []
+}
+],
+"17840": [
+{
+"Models of robots and environment": []
+},
+{
+"Classic aproaches of path-planning": []
+},
+{
+"Roadmaps": []
+},
+{
+"Celd Decomposition": []
+},
+{
+"Probabilistical methods": []
+}
+],
+"17841": [
+{
+"ROS": [
+"Ro"
+]
+},
+{
+"Communications methods": []
+},
+{
+"Programming nodes": []
+},
+{
+"Services": [
+"services",
+"service",
+"service",
+"service",
+"religious_service"
+]
+},
+{
+"Services": [
+"services",
+"service",
+"service",
+"service",
+"religious_service"
+]
+},
+{
+"Timers": [
+"timer",
+"timekeeper",
+"timer",
+"timer"
+]
+}
+],
+"14927": [
+{
+"ABB manipultators": []
+},
+{
+"IRC5 controller": []
+},
+{
+"Robot Programming": []
+},
+{
+"Kinematic Control": []
+},
+{
+"manufacturing system": []
+}
+],
+"17842": [
+{
+"OmEdit and DrModelica": []
+},
+{
+"Connectors": [
+"connection",
+"connexion",
+"connector",
+"connecter",
+"connective"
+]
+},
+{
+"Hybrid systems": []
+},
+{
+"Discrete time systems": []
+},
+{
+" modeling and simulation": []
+},
+{
+"Hybrid systems": []
+}
+],
+"17843": [
+{
+"Machine Learning": []
+},
+{
+" Techniques for data classification": []
+},
+{
+"Regression techniques": []
+},
+{
+"Clustering techniques": []
+},
+{
+"Deep Learning": []
+},
+{
+"Medicine": [
+"medicine",
+"medical_specialty",
+"medicine",
+"medication",
+"medicament"
+]
+}
+],
+"14930": [
+{
+"Typology of applications": []
+},
+{
+"robots in construction": []
+},
+{
+"Construction of structures": []
+},
+{
+"ICTs in construction": []
+}
+],
+"14934": [
+{
+"Intelligent Transport Systems": []
+},
+{
+"Autonomous Systems": []
+},
+{
+"Driver Assistance Systems": []
+},
+{
+"Traffic Signal Recognition System": []
+},
+{
+" Control Monitoring Systems": []
+}
+],
+"14936": [
+{
+"methods of robotics": []
+},
+{
+"Kinematics": [
+"kinematics"
+]
+},
+{
+"Generation of gaits of humanoids": []
+},
+{
+" Control Architecture": []
+}
+],
+"14937": [
+{
+"Architecture": [
+"architecture",
+"architecture",
+"architecture",
+"computer_architecture",
+"architecture"
+]
+},
+{
+"Conceptual design": []
+},
+{
+"Data Links": []
+},
+{
+"Payloads": [
+"warhead",
+"payload",
+"load",
+"cargo",
+"lading"
+]
+},
+{
+"SWOT Analysis": []
+}
+],
+"17849": [
+{
+"Robots": [
+"automaton",
+"robot",
+"golem"
+]
+},
+{
+"Mining robots": []
+},
+{
+"Control of field robots": []
+},
+{
+" Sensory systems": []
+},
+{
+" Control of field robots": []
+}
+],
+"17850": [
+{
+"Programming": [
+"scheduling",
+"programming",
+"programing",
+"programming",
+"programing"
+]
+},
+{
+"Design and simulation": []
+},
+{
+"Task control": []
+},
+{
+"Multi-robot systems": []
+},
+{
+"Cooperative robots": []
+}
+],
+"17851": [
+{
+"Medical robotics": []
+},
+{
+"Rehabilitation robotics": []
+},
+{
+"Exoskeletons": [
+"exoskeleton"
+]
+},
+{
+"Assistive robots": []
+},
+{
+"DLAs": []
+},
+{
+"Platforms of assistance robots": []
+}
+],
+"17852": [
+{
+"Applications": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+},
+{
+"Social robots": []
+},
+{
+"Intelligent houses": []
+},
+{
+"Technical problems": []
+}
+],
+"14928": [
+{
+"Logic Systems": []
+},
+{
+"State Diagrams": []
+},
+{
+" Automata Programming": []
+},
+{
+"Ladder Programming": []
+},
+{
+"Grafcet (SFC)": []
+}
+],
+"17845": [
+{
+"Teleoperation": []
+},
+{
+"Technologies Devices": []
+},
+{
+"Design specifications": []
+},
+{
+"Teleoperation architectures": []
+},
+{
+"Force-Torque Control": []
+},
+{
+"Applications": [
+"application",
+"practical_application",
+"application",
+"application",
+"coating"
+]
+}
+],
+"17846": [
+{
+"Robots": [
+"automaton",
+"robot",
+"golem"
+]
+},
+{
+"developed grippers": []
+},
+{
+" complex robotics": []
+}
+],
+"17847": [
+{
+"Mobile Robots": []
+},
+{
+"Geometric navigation": []
+},
+{
+"Topological navigation": []
+},
+{
+"Semantic Navigation": []
+},
+{
+"Terrain modeling": []
+},
+{
+"Mobile Robot": []
+}
+],
+"17848": [
+{
+"3D": [
+"three-D",
+"3-D",
+"3D",
+"three-D",
+"3-D"
+]
+},
+{
+"Sensors": [
+"detector",
+"sensor",
+"sensing_element"
+]
+},
+{
+"Techniques": [
+"technique",
+"proficiency",
+"technique"
+]
+},
+{
+"Segmentation": [
+"cleavage",
+"segmentation",
+"division",
+"partition",
+"partitioning"
+]
+},
+{
+"Robotic applications ": []
+},
+{
+"Human-Robot": []
+}
+],
+"17844": [
+{
+"Components of a simulator": []
+},
+{
+"Gazebo Files": []
+},
+{
+"SDF": []
+},
+{
+"URDF": []
+},
+{
+"OpenRAVE": []
+}
+],
+"14938": [
+{
+"Introduction": [
+"introduction",
+"debut",
+"first_appearance",
+"launching",
+"unveiling"
+]
+},
+{
+"research": [
+"research",
+"inquiry",
+"enquiry",
+"research",
+"research"
+]
+},
+{
+"robotics": [
+"robotics"
+]
+},
+{
+"automation": [
+"automation",
+"mechanization",
+"mechanisation",
+"automation",
+"automation"
+]
+}
+],
+"16141": [],
+"16142": [],
+"16145": [],
+"16146": [],
+"16148": [],
+"16150": [],
+"16151": [],
+"16143": [],
+"16144": [],
+"16147": [],
+"16152": [],
+"16153": [],
+"16155": [],
+"15033": [
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"fluids": [
+"fluid",
+"fluid"
+]
+},
+{
+"kinetic theory": []
+},
+{
+"physics": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"particle": [
+"atom",
+"molecule",
+"particle",
+"corpuscle",
+"mote"
+]
+}
+],
+"15035": [
+{
+"quantum mechanics": []
+},
+{
+"harmonic oscillator": []
+},
+{
+"particle dynamics": []
+},
+{
+"central forces": []
+},
+{
+"molecules": [
+"molecule",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+}
+],
+"15036": [
+{
+"gas": [
+"gas",
+"gaseous_state",
+"gas",
+"gasoline",
+"gasolene"
+]
+},
+{
+"fluids": [
+"fluid",
+"fluid"
+]
+},
+{
+"nozzles": [
+"nozzle",
+"nose",
+"beak",
+"honker",
+"hooter"
+]
+},
+{
+"fluid dynamic": []
+},
+{
+"Mach number": []
+}
+],
+"15034": [
+{
+"nuclear fusion": []
+},
+{
+"electrodynamics": []
+},
+{
+"electromagnetic theory": []
+},
+{
+"particle dynamics": []
+},
+{
+"applied electromagnetism": []
+}
+],
+"15037": [
+{
+"descriptive adjectives": []
+},
+{
+"present tense": []
+},
+{
+"subjunctive": [
+"subjunctive_mood",
+"subjunctive",
+"subjunctive"
+]
+},
+{
+"imperative": [
+"imperative_mood",
+"imperative",
+"jussive_mood",
+"imperative_form",
+"imperative"
+]
+},
+{
+"language": [
+"language",
+"linguistic_communication",
+"speech",
+"speech_communication",
+"spoken_communication"
+]
+},
+{
+"culture": [
+"culture",
+"civilization",
+"civilisation",
+"culture",
+"acculturation"
+]
+}
+],
+"15038": [
+{
+"ordinary differential equations": []
+},
+{
+"linear algebra": []
+},
+{
+"Eulerian Methods": []
+},
+{
+"Lagrangian methods": []
+},
+{
+"partial differential equations": []
+}
+],
+"15039": [
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"physics": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"nuclear": [
+"nuclear",
+"atomic",
+"nuclear",
+"nuclear",
+"nuclear"
+]
+},
+{
+"mechanical properties": []
+},
+{
+"fusion": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+}
+],
+"15040": [
+{
+"laboratory": [
+"lab",
+"laboratory",
+"research_lab",
+"research_laboratory",
+"science_lab"
+]
+},
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"physics": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"nuclear": [
+"nuclear",
+"atomic",
+"nuclear",
+"nuclear",
+"nuclear"
+]
+},
+{
+"mechanical properties": []
+},
+{
+"fusion": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+}
+],
+"15041": [
+{
+"diffusion": [
+"diffusion",
+"diffusion",
+"dissemination",
+"diffusion",
+"dispersion"
+]
+},
+{
+"phase diagrams": []
+},
+{
+"degradation": [
+"degradation",
+"debasement",
+"abasement",
+"degradation",
+"abjection"
+]
+},
+{
+"processing": [
+"processing",
+"process",
+"treat",
+"process",
+"process"
+]
+},
+{
+"types of materials": []
+}
+],
+"15042": [
+{
+"Bose-Einstein gas": []
+},
+{
+"Fermi gas": []
+},
+{
+"physics": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+},
+{
+"phase transitions": []
+},
+{
+"Boltzmann": [
+"Boltzmann",
+"Ludwig_Boltzmann"
+]
+}
+],
+"15043": [
+{
+"atoms": [
+"atom",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+},
+{
+"atomic structure": []
+},
+{
+"molecules": [
+"molecule",
+"atom",
+"molecule",
+"particle",
+"corpuscle"
+]
+},
+{
+"Born-Oppenheimer": []
+},
+{
+"spectroscopy": [
+"spectroscopy",
+"spectrometry",
+"spectroscopic_analysis",
+"spectrum_analysis",
+"spectrographic_analysis"
+]
+}
+],
+"15044": [
+{
+"fusion power": []
+},
+{
+"stellarators": []
+},
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"tokamak": [
+"tokamak"
+]
+},
+{
+"confinement": [
+"parturiency",
+"labor",
+"labour",
+"confinement",
+"lying-in"
+]
+}
+],
+"15045": [
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"magnetic measurements": []
+},
+{
+"particle": [
+"atom",
+"molecule",
+"particle",
+"corpuscle",
+"mote"
+]
+},
+{
+"spectroscopy": [
+"spectroscopy",
+"spectrometry",
+"spectroscopic_analysis",
+"spectrum_analysis",
+"spectrographic_analysis"
+]
+},
+{
+"microwave": [
+"microwave",
+"microwave",
+"microwave_oven",
+"microwave",
+"micro-cook"
+]
+}
+],
+"15046": [
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"particle methods": []
+},
+{
+"spectral methods": []
+},
+{
+"parallel programming": []
+},
+{
+"linear analysis": []
+}
+],
+"15047": [
+{
+"magnetic confinement": []
+},
+{
+"Vacuum vessel": []
+},
+{
+"fusion energy": []
+},
+{
+"electrical systems": []
+},
+{
+"cryostat": [
+"cryostat"
+]
+}
+],
+"15019": [
+{
+"Navier-Stokes": []
+},
+{
+"turbulence": [
+"turbulence",
+"turbulency",
+"turbulence",
+"turbulence",
+"upheaval"
+]
+},
+{
+"fluids": [
+"fluid",
+"fluid"
+]
+},
+{
+"magnetohydrodynamic": []
+},
+{
+"fusion plasmas": []
+},
+{
+"physics": [
+"physics",
+"natural_philosophy",
+"physics",
+"physical_science",
+"purgative"
+]
+}
+],
+"15051": [
+{
+"MHD": []
+},
+{
+"magnetohydrodynamic": []
+},
+{
+"equilibrium": [
+"equilibrium",
+"chemical_equilibrium",
+"equilibrium",
+"balance",
+"equilibrium"
+]
+},
+{
+"magnetic diagnostics": []
+},
+{
+"MHD stability": []
+}
+],
+"15050": [
+{
+"astrophysics": [
+"astrophysics"
+]
+},
+{
+"plasma": [
+"plasma",
+"plasm",
+"blood_plasma",
+"plasma",
+"plasma"
+]
+},
+{
+"MHD": []
+},
+{
+"orbits": [
+"orbit",
+"celestial_orbit",
+"sphere",
+"domain",
+"area"
+]
+},
+{
+"environment": [
+"environment",
+"environment",
+"environs",
+"surroundings",
+"surround"
+]
+}
+],
+"15049": [
+{
+"nuclear fusion": []
+},
+{
+"fast ignition": []
+},
+{
+"hydrodynamics": [
+"hydrodynamics",
+"hydrokinetics"
+]
+},
+{
+"reactions": [
+"chemical_reaction",
+"reaction",
+"reaction",
+"reaction",
+"response"
+]
+},
+{
+"atomic conditions": []
+}
+],
+"15052": [
+{
+"modelling": [
+"modeling",
+"modelling",
+"molding",
+"moulding",
+"model"
+]
+},
+{
+"Grad-Safranov": []
+},
+{
+"MHD": []
+},
+{
+"Parabolic": [
+"parabolic",
+"parabolical",
+"parabolic",
+"parabolical"
+]
+},
+{
+"Asymptotic": [
+"asymptotic"
+]
+}
+],
+"15053": [
+{
+"atomic structure": []
+},
+{
+"molecular structure": []
+},
+{
+"collisions": [
+"collision",
+"hit",
+"collision",
+"collision"
+]
+},
+{
+"scattering": [
+"scattering",
+"sprinkling",
+"scattering",
+"scattering",
+"sprinkle"
+]
+},
+{
+"R-matrix": []
+}
+],
+"15048": [
+{
+"materials": [
+"material",
+"stuff",
+"material",
+"fabric",
+"cloth"
+]
+},
+{
+"fusion reactions": []
+},
+{
+"radiation damage": []
+},
+{
+"RD": []
+},
+{
+"ion radiation": []
+},
+{
+"oxide dispersion strengthened": []
+}
+],
+"15055": [
+{
+"particle recycling": []
+},
+{
+"wall coatings": []
+},
+{
+"divertors": []
+},
+{
+"plasma interactions": []
+},
+{
+"material selection": []
+}
+],
+"15057": [
+{
+"robot history": []
+},
+{
+"Force-Torque": []
+},
+{
+"teleoperation": []
+},
+{
+"human factors": []
+},
+{
+"simulators": [
+"simulator"
+]
+}
+],
+"15054": [
+{
+"nuclear radioactivity": []
+},
+{
+"decays": [
+"decay",
+"decay",
+"decline",
+"decay",
+"decomposition"
+]
+},
+{
+"nuclear structure": []
+},
+{
+"fission": [
+"fission",
+"fission",
+"nuclear_fission"
+]
+},
+{
+"fusion": [
+"fusion",
+"merger",
+"unification",
+"coalition",
+"fusion"
+]
+}
+],
+"15056": [
+{
+"inductively coupled plasmas": []
+},
+{
+"surface wave": []
+},
+{
+"plasma applications": []
+},
+{
+"laboratory": [
+"lab",
+"laboratory",
+"research_lab",
+"research_laboratory",
+"science_lab"
+]
+},
+{
+"ICP": []
+}
+],
+"17359": [
+{
+"photonics_engineering": []
+},
+{
+"photonics_technologies": []
+},
+{
+"optic_systems": []
+},
+{
+"optical_elements": []
+}
+],
+"17360": [
+{
+"photonics_engineering": []
+},
+{
+"photonics_technologies": []
+},
+{
+"photonic_system_design": []
+},
+{
+"photonics_research": []
+}
+],
+"17361": [
+{
+"photonics_engineering": []
+},
+{
+"photonics_technologies": []
+},
+{
+"photonic_system_design": []
+},
+{
+"photonics_research": []
+}
+],
+"17363": [
+{
+"photonics_engineering": []
+},
+{
+"simulation_tools": []
+},
+{
+"photonics_simulations": []
+}
+],
+"17366": [
+{
+"photonics_engineering": []
+},
+{
+"assistive_photonics": []
+},
+{
+"photonic_system_design": []
+}
+],
+"17373": [
+{
+"photonics_engineering": []
+},
+{
+"organic_photonics": []
+},
+{
+"organic_devices": []
+}
+],
+"17369": [
+{
+"photonics_engineering": []
+},
+{
+"fiber_optic": []
+},
+{
+"sensing": [
+"detection",
+"sensing",
+"sensing",
+"perception",
+"feel"
+]
+},
+{
+"distributed_sensing": []
+}
+],
+"17368": [
+{
+"photonics_engineering": []
+},
+{
+"optical_communications": []
+},
+{
+"optical_access_networks": []
+}
+],
+"17371": [
+{
+"photonics_engineering": []
+},
+{
+"imaging_systems": []
+},
+{
+"2d_imaging": []
+},
+{
+"3d_imaging": []
+}
+],
+"17367": [
+{
+"photonics_engineering": []
+},
+{
+"lidar": [
+"lidar"
+]
+},
+{
+"lidar_applications": []
+},
+{
+"lidar_technologies": []
+}
+],
+"17370": [
+{
+"photonics_engineering": []
+},
+{
+"optical_sensor_networks": []
+},
+{
+"network_architecture": [
+"network_architecture"
+]
+}
+],
+"17372": [
+{
+"photonics_engineering": []
+},
+{
+"nanophotonics": []
+},
+{
+"nanotechnologies": [
+"nanotechnology"
+]
+}
+],
+"17374": [
+{
+"photonics_engineering": []
+},
+{
+"integrated_circuits": [
+"integrated_circuit",
+"microcircuit"
+]
+},
+{
+"optical_circuits": []
+}
+],
+"17376": [
+{
+"photonics_engineering": []
+},
+{
+"semiconductor_lasers": []
+},
+{
+"laser": [
+"laser",
+"optical_maser"
+]
+},
+{
+"laser_diodes": []
+}
+],
+"17377": [
+{
+"photonics_engineering": []
+},
+{
+"ultrafast_photonics": []
+},
+{
+"photonics_applications": []
+}
+],
+"17375": [
+{
+"photonics_engineering": []
+},
+{
+"biophotonics": []
+},
+{
+"bioimaging": []
+},
+{
+"biosensors": []
+}
+],
+"17362": [
+{
+"photonics_engineering": []
+},
+{
+"project": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+}
+],
+"17365": [
+{
+"photonics_engineering": []
+},
+{
+"project": [
+"undertaking",
+"project",
+"task",
+"labor",
+"project"
+]
+}
+],
+"17364": [
+{
+"photonics_engineering": []
+},
+{
+"seminars": [
+"seminar",
+"seminar"
+]
+}
+],
+"17378": [
+{
+"photonics_engineering": []
+},
+{
+"internship": [
+"internship"
+]
+}
+],
+"17251": []
+}
