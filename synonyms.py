@@ -24,7 +24,7 @@ with open('/home/ernesto/Proyectos/CloneProjects/Synonyms/data/subjects.json') a
   data = json.load(f)
 #
 #my_data_file = open('/home/ernesto/Proyectos/CloneProjects/Synonyms/topics-synonyms.json', 'a')
-array_topics = {}
+array_topics = []
 
 
 i=0
@@ -32,7 +32,7 @@ for line in range(0,len(data),1):
   #print(line)
   topics=data[line]["topics"]
   id_subjects=data[line]["name"]
-  array_topics['{}'.format(id_subjects)] = []
+  
   #print(topics)
   #print("************  i  *********")
   #print(id_subjects)
@@ -46,7 +46,7 @@ for line in range(0,len(data),1):
       
       synonyms= synonymsFunction(topics[each_topic])
       #Aqui se hace el Json de cada topic
-      array_topics['{}'.format(id_subjects)].append({
+      array_topics.append({
           'value':'{}'.format(topics[each_topic]),
           "synonyms": list(synonyms[:5])         
         })  
