@@ -20,7 +20,7 @@ def synonymsFunction(word):
 
 antonyms = []
 #json_data=json.dumps()
-with open('/home/ernesto/Proyectos/CloneProjects/Synonyms/data/subjects.json') as f:
+with open('/home/ernesto/Proyectos/CloneProjects/Synonyms/data/subject-updated.json') as f:
   data = json.load(f)
 #
 #my_data_file = open('/home/ernesto/Proyectos/CloneProjects/Synonyms/topics-synonyms.json', 'a')

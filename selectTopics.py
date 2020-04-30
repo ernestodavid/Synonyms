@@ -16,6 +16,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 import re
+
 palabrasvac = ['a', 'about', 'above', 'across', 'after', 'afterwards']
 palabrasvac += ['again', 'against', 'all', 'almost', 'alone', 'along']
 palabrasvac += ['already', 'also', 'although', 'always', 'am', 'among']
@@ -51,7 +52,7 @@ palabrasvac += ['out', 'over', 'own', 'part', 'per', 'perhaps', 'please']
 palabrasvac += ['put', 'rather', 're', 's', 'same', 'see', 'seem', 'seemed']
 palabrasvac += ['seeming', 'seems', 'serious', 'several', 'she', 'should']
 palabrasvac += ['show', 'side', 'since', 'sincere', 'six', 'sixty', 'so']
-palabrasvac += ['some', 'somehow', 'someone', 'something', 'sometime']
+palabrasvac += ['some', 'somehow', 'someone', 'something', 'sometime','way']
 palabrasvac += ['sometimes', 'somewhere', 'still', 'such', 'system', 'take']
 palabrasvac += ['ten', 'than', 'that', 'the', 'their', 'them', 'themselves']
 palabrasvac += ['then', 'thence', 'there', 'thereafter', 'thereby']
@@ -65,9 +66,12 @@ palabrasvac += ['whatever', 'when', 'whence', 'whenever', 'where']
 palabrasvac += ['whereafter', 'whereas', 'whereby', 'wherein', 'whereupon']
 palabrasvac += ['wherever', 'whether', 'which', 'while', 'whither', 'who']
 palabrasvac += ['whoever', 'whole', 'whom', 'whose', 'why', 'will', 'with','[',']','{','}']
-palabrasvac += ['within', 'without', 'would', 'yet', 'you', 'your','%','<','>','-','and/or','*','$',':']
+palabrasvac += ['within', 'without', 'would', 'yet', 'you', 'your','%','<','>','-','and/or','*','$',':',';',"'s",'``']
 palabrasvac += ['yours', 'yourself', 'yourselves','1','2','3','4','5','6','7','8','9','0']
 
+divsAll=[]
+topicsSubjects=[]
+frecuencySubjects=[]
 #def insert_topic_subject(topics,subject,subjects_f,):    
        
      
@@ -84,28 +88,81 @@ palabrasvac += ['yours', 'yourself', 'yourselves','1','2','3','4','5','6','7','8
     
     #page = requests.get(url)
     #print(page)
+
+def termFrecuency(topicsSubjects,frecuencySubjects,topicsAll,frecuencyAll):
+    cont=0
+    # print(topicsSubjects)
+    # print("***************************************************************")
+    # print(topicsAll)
+    for topicList in topicsSubjects:
+        
+        #result=[w for w in topicList if w in topics_resultALL]
+        for topic in topicList:   
+            if topic in topicsAll:
+                #Indice dentro de el array de la asignatura
+                indexTopic=topicList.index(topic)
+                #Valor en frecuencia del Topic dentro del docuemnto de la asignatura
+                valueFrecuencyTopic=frecuencySubjects[cont][indexTopic]
+
+                #Tomo el indice de las palabras de cada asignatura en el array de las palabras de todos los docuemtos
+                indexTopicGeneral=topicsAll.index(topic)
+                #print(indexFrecuencyTopicGeneral)
+                
+                
+                #Tomo el valor de la frecuencia de esa palabra en todos los documentos
+                valueFrecuencyTopicGeneral=frecuencyAll[indexTopicGeneral]
+                
+
+                # print("En subjects")
+                # print(valueFrecuencyTopic)
+                # print("En grneral")
+                # print(valueFrecuencyTopicGeneral)
+
+                listaSubject=[topic,valueFrecuencyTopic]
+                listaTotal=[topic,valueFrecuencyTopicGeneral]
+
+                #
+                print(listaSubject)
+                print(listaTotal)
+                
+            else:
+                continue
+                #print(topic)
+        
+        list_word_frecuancySUBJECTS=list(zip(topicsSubjects[cont], frecuencySubjects[cont]))
+        list_word_frecuancyAllDoc=list(zip(topicsAll, frecuencyAll))
+        #print("Esto esta relacionado a la Asignatura "+str(cont))
+        cont=cont+1
+        # print("************************************   topics_subject  *******************************")
+        # print(list_word_frecuancySUBJECTS)
+        # print("************************************   topics_total  *******************************")
+        # print(list_word_frecuancyAllDoc)
+
 def stop_wear(vocab,palabrasvac):
    
-    return [w for w in vocab if w not in palabrasvac]
+    return [s for s in vocab if s not in palabrasvac]
+def wordCount(tokens):
+    words = [n.lower() for n in tokens]
+    frecuenciaPalab=[]
+    for n in words:
+        frecuenciaPalab.append(words.count(n))
+    return words, frecuenciaPalab
 
 def vocabulario(tokens):
-    words = [w.lower() for w in tokens]
+    
     #print(type(words))
-    frecuenciaPalab=[]
-    for w in words:
-        frecuenciaPalab.append(words.count(w)) 
+    words,frecuenciaPalab=wordCount(tokens)     
     
     vocab = list(sorted(set(words)))
-    
-    for w in vocab:
-        if ((w is int) or (len(w)<4 )):
-            
-            print("**************   "+w+"  *************************")            
-            vocab.remove(w)        
-        else:
-            pass
-
     vocab_need=stop_wear(vocab,palabrasvac)
+    for x in vocab_need:
+        if ((x is int) or (len(x)<4 )):            
+            #print("**************   "+x+"  *************************")            
+            vocab_need.remove(x)        
+        else:
+            continue
+
+    
     list_word_frecuancy=list(zip(vocab_need, frecuenciaPalab))
     orden_lista=sorted(list_word_frecuancy,key=lambda row: row[1], reverse=True)
     
@@ -114,22 +171,27 @@ def vocabulario(tokens):
     #print(type(vocab))
     #print(vocab)
     return orden_lista
-
+     
+        
+        
 def miner(subjects,subjects_f):
     # Function to extract the description of every subject
     i=0
     for subject in subjects:
+        i=i+1
+        if i>2:
+            break
         url = subject["url"]
-        
+        all_text=[]
         #page = urllib.request.urlopen(url)
         page=requests.get(url)
         
         status_code=page.status_code
         if status_code == 200:
-            print(url)
+            #print(url)
             # print the source code
             #print(page.content)
-                
+            u=0
             parsed_webpage = BeautifulSoup(page.content,"html.parser")
             #parsed_webpage=parsed_webpage.get_text()
 
@@ -138,32 +200,87 @@ def miner(subjects,subjects_f):
                 continue
             else:
                 #p_tag = parsed_webpage.findAll('div')
-                all_text=[]
+                
                 for div in p_tag:
-                    print(div.text)
-                    all_text.append(div)
+                    u=u+1
+                    #print("El div que se ve es este"+str(u))
+                    all_text.extend(div)
+                    #print(str(div))
+                token=nltk.word_tokenize(str(all_text))
                 
-                tokens = nltk.word_tokenize(str(all_text))
-                
-                unique_words=vocabulario(tokens)
-                print(str(unique_words))
-                topics_result, frecuency=zip(*unique_words[:10])
+                tokensSubjects = [x.replace('\n','') for x in token]
+                tokensSubjects=[x.replace('\\n','') for x in tokensSubjects]
+                tokensSubjects=[x.replace('.-','') for x in tokensSubjects]
+                tokensSubjects=[x.replace('-','') for x in tokensSubjects]
+                tokensSubjects=[x.replace('.t','') for x in tokensSubjects]
+                tokensSubjects=[x.replace('\\','') for x in tokensSubjects]
 
-                print(str(topics_result))
-                subject["topics"] = topics_result
-                with open('data/subjects.json', 'w') as subjects_f:
-                    subjects_f.write(json.dumps(subjects))    
-        
-       
+                #Add todos las palabras de los documentos a un array final
+                divsAll.extend(all_text)
+                # print("************************************   token acumulado  *******************************")
+                # print(divsAll)
+                #Hago un conteo de la frecuencia en que aparece cada palabra
+                unique_words=vocabulario(tokensSubjects)
+                #print(str(unique_words))
+
+                topics_result, frecuency=zip(*unique_words)
+                # print("************************************   topics_subjects *******************************")
+                # print(topics_result)
+                
+
+                topicsSubjects.append(topics_result)
+
+                frecuencySubjects.append(frecuency)
+                #print(str(topics_result))
+                
+    return divsAll,topicsSubjects,frecuencySubjects
+
+def writeTopics(subject,subjects_f,topics_result):    
+    subject["topics"] = topics_result
+    with open('data/subjects.json', 'w') as subjects_f:
+        subjects_f.write(json.dumps(subjects))    
 
 if __name__ == "__main__":
+    
     # Open subjects file and get subject object
     with open("data/subjects.json") as subjects_f:
-        subjects =  json.load(subjects_f)
+        subjects =json.load(subjects_f)
     
-    miner(subjects,subjects_f)
+    divsAll,topicsSubjects,frecuencySubjects=miner(subjects,subjects_f)
+    # print("************************************   tokensAll  *******************************")
+    # print(str(divsAll))
+    tokenized_before=nltk.word_tokenize(str(divsAll))
+    tokenized_before=[x.replace('\\n','') for x in tokenized_before]
+    tokenized_before=[x.replace('\n','') for x in tokenized_before]
+    tokenized_before=[x.replace('.t','') for x in tokenized_before]
+    tokenized_before=[x.replace('.-','') for x in tokenized_before]
+    tokenized_before=[x.replace('-','') for x in tokenized_before]
+    tokensAll=[x.replace('\\','') for x in tokenized_before]
     
+    #word,frecuencyAll=wordCount(tokensAll)    
+    listaOrdenada=vocabulario(tokensAll)
+    print(tokensAll)
+
+    topicsAll,frecuencyAll=zip(*listaOrdenada)
+    
+    #print("**************    topics_resultALL   *******************")
+    #print(str(topicsAll))
+    #print("**************    frecuencyALL   *******************")
+    #print(str(frecuencyAll))
+    #print("**************    topicsSubjects   *******************")
+    #print(str(topicsSubjects))
+    #print("**************    frecuencySubjects   *******************")
+    #print(str(frecuencySubjects))
+    #print("**************    frecuencySubjects  [0] *******************")
+    #print(str(frecuencySubjects[0]))
+
+    termFrecuency(topicsSubjects,frecuencySubjects,topicsAll,frecuencyAll)
+
+    #writeTopics(subjects,subjects_f)
+
     #clean_topics = cleaner(topics)
     #top_words = extract_kwargs(clean_topics)
 
     #top_words.to_json("topics.json", orient='records')
+
+    
